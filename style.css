@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    line-height: 1.5;
+    background: black;
+  border: solid 10px black;
+    text-align: center;
+  }
+  .col {
+    border: solid 10px black;
+  }
+  .row {
+    border: solid 10px black;
+  }
+  img {
+    width: 20vw;
+  }
